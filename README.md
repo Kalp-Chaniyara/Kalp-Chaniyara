@@ -7,8 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kalp-Chaniyara&label=Profile%20views&color=0e75b6&style=flat" alt="Kalp-Chaniyara" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kalp-chaniyara" alt="kalp-chaniyara" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/kalpchaniyara" target="blank"><img src="https://img.shields.io/twitter/follow/kalpchaniyara?logo=twitter&style=for-the-badge" alt="kalpchaniyara" /></a> </p>
 
 - 🔭 I’m currently working on **MegaBlog Project**
@@ -66,6 +64,8 @@
   <!-- Backend as a Service (BaaS) -->
   <img src="https://img.shields.io/badge/-Appwrite-cb2727?logo=appwrite&logoColor=white&style=for-the-badge&height=30" ba />
 </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kalp-chaniyara" alt="kalp-chaniyara" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalp-chaniyara&show_icons=true&locale=en&layout=compact" alt="kalp-chaniyara" /></p>
 
