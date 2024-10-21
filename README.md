@@ -61,7 +61,7 @@
 
 <p align="right">
   <!-- Backend as a Service (BaaS) -->
-  <img src="https://img.shields.io/badge/-Appwrite-339933?logo=appwrite&logoColor=white&style=for-the-badge&height=30" />
+  <img src="https://img.shields.io/badge/-Appwrite-339933?logo=appwrite&logoColor=white&height=30" />
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalp-chaniyara&show_icons=true&locale=en&layout=compact" alt="kalp-chaniyara" /></p>
