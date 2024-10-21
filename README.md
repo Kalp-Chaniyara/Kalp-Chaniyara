@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kalp Chaniyara</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="center" width="400" src="https://raw.githubusercontent.com/AlaeddineMessadi/AlaeddineMessadi/main/web-developer-chilling.gif" alt="Coding">
+<img align="center" width="400" src="[https://raw.githubusercontent.com/AlaeddineMessadi/AlaeddineMessadi/main/web-developer-chilling.gif" alt="Coding](https://github.com/Kalp-Chaniyara/Kalp-Chaniyara/blob/main/Screenshot%202024-10-21%20181959.png)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalp-chaniyara&label=Profile%20views&color=0e75b6&style=flat" alt="kalp-chaniyara" /> </p>
 
