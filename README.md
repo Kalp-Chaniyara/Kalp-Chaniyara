@@ -52,6 +52,7 @@
   <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=for-the-badge&height=30" />
   <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge&height=30" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge&height=30" />
+  <img src="https://img.shields.io/badge/-POPSTMAN-d9770f?logo=postman&logoColor=white&style=for-the-badge&height=30" />
 </p>
 
 <p align="right">
