@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/kalpchaniyara" target="blank"><img src="https://img.shields.io/twitter/follow/kalpchaniyara?logo=twitter&style=for-the-badge" alt="kalpchaniyara" /></a> </p>
 
-- 🔭 I’m currently working on **MegaBlog Project** and **KVison**
+- 🔭 I’m currently exploring **Open Source**
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **NextJs**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **Technologies**
 
 - 📫 How to reach me **kalpking1406@gamil.com**
 
