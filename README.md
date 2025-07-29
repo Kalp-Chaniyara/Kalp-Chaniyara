@@ -34,7 +34,8 @@
   <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge&height=30" />
   <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=for-the-badge&height=30" />
-  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge&height=30" />
+  <img src="https://img.shields.io/badge/-Java-ED8B00?logo=java&logoColor=white&style=for-the-badge&height=30" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge&height=30" />
 </p>
 
 <p align="right">
