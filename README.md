@@ -9,9 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/kalpchaniyara" target="blank"><img src="https://img.shields.io/twitter/follow/kalpchaniyara?logo=twitter&style=for-the-badge" alt="kalpchaniyara" /></a> </p>
 
-- 🔭 I’m currently exploring **Open Source**
-
-- 🌱 I’m currently learning **NextJs**
+- 🔭 I’m currently exploring **How things work under the hood :)**
 
 - 💬 Ask me about **Technologies**
 
@@ -45,6 +43,7 @@
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&height=30" />
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge&height=30" />
   <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge&height=30" />
+  <img src="https://img.shields.io/badge/-Next.Js-38B2AC?logo=next-js&logoColor=white&style=for-the-badge&height=30" />
 </p>
 
 <p align="right">
