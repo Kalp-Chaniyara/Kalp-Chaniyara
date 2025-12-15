@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Technologies**
 
-- 📫 How to reach me **kalpking1406@gamil.com**
+- 📫 How to reach me **kalpking1406@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
