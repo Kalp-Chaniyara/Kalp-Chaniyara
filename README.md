@@ -52,6 +52,7 @@
   <img src="https://img.shields.io/badge/-Java-ED8B00?logo=java&logoColor=white&style=for-the-badge&height=30" />
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge&height=30" />
   <img src="https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=for-the-badge&height=30" />
+  <img src="https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" />
 </p>
 
 <p align="right">
@@ -70,6 +71,7 @@
   <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge&height=30" />
   <img src="https://img.shields.io/badge/-Postman-d9770f?logo=postman&logoColor=white&style=for-the-badge&height=30" />
   <img src="https://img.shields.io/badge/-Socket.IO-000000?logo=socket.io&logoColor=white&style=for-the-badge&height=30" />
+  <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge" />
 </p>
 
 <p align="right">
