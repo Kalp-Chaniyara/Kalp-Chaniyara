@@ -88,8 +88,18 @@
   <img src="https://img.shields.io/badge/LangChain-00B16A?logo=chainlink&logoColor=white&style=for-the-badge" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalp-chaniyara&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="kalp-chaniyara" /></p>
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalp-Chaniyara&layout=compact&theme=tokyonight" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kalp-chaniyara&show_icons=true&locale=en&theme=tokyonight" alt="kalp-chaniyara" /></p>
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kalp-Chaniyara&show_icons=true&theme=tokyonight&count_private=true" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kalp-chaniyara&theme=tokyonight" alt="kalp-chaniyara" /></p>
+<p>
+<img src="https://streak-stats.demolab.com?user=Kalp-Chaniyara&theme=tokyonight" />
+</p>
+
+<p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kalp-Chaniyara&theme=tokyo-night" />
+</p>
