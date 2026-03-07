@@ -88,12 +88,14 @@
   <img src="https://img.shields.io/badge/LangChain-00B16A?logo=chainlink&logoColor=white&style=for-the-badge" />
 </p>
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalp-Chaniyara&layout=compact&theme=tokyonight" />
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kalp-Chaniyara&theme=tokyonight" />
 </p>
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kalp-Chaniyara&show_icons=true&theme=tokyonight&count_private=true" />
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kalp-Chaniyara&theme=tokyonight" />
 </p>
 
 <p>
